@@ -1,0 +1,1 @@
+hi . `` kevin worthington '' wrote : > into /home/dude/redhat etc . by run > # rpm -ivh foo.src.rpm do thi : echo `` % _topdir /home/dude/redhat '' > > /home/dude/.rpmmacro and make sure the directori structur ( rpm , sourc , spec , srpm , build ) is there . -- r ! _______________________________________________ rpm-list mail list httpaddr
